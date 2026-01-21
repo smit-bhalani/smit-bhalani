@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Engineer**,
 ---
 
 ## 🌐 Connect with Me
-- **Website**: [smit-bhalani.web.app](https://smit-bhalani.web.app)
+- **Website**: [smitbhalani.in](https://smitbhalani.in)
 - **LinkedIn**: [linkedin.com/in/smit-bhalani](https://linkedin.com/in/smit-bhalani)
 - **Email**: [smitbhalani.me@gmail.com](mailto:smitbhalani.me@gmail.com)
 - **GitHub**: [github.com/smit-bhalani](https://github.com/smit-bhalani)
